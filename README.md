@@ -98,7 +98,7 @@ Step 5: Test and Reload NGINX
 
 
 
-Renewal Process for SSL on devray.co.in
+**Renewal Process for SSL on devray.co.in**
 
 Step 1: Renew the SSL Certificate on GoDaddy
 
